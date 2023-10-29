@@ -1,8 +1,11 @@
 # MERN_AUTH
 MERN stack project to implement the jwt auth functionality along with cookies
+![image](https://github.com/bhuvan2205/MERN_AUTH/assets/56767330/9e1756ec-db3b-44de-ab53-0bcceb33ea4c)
 
-![image](https://github.com/bhuvan2205/MERN_AUTH/assets/56767330/9852044d-3c74-4e46-a7eb-b777e4de7a53)
 
+# API Documentation
+
+https://documenter.getpostman.com/view/26098056/2s9YRGy98G
 
 # Pre-Requisites
 
