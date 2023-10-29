@@ -63,7 +63,7 @@ const Register = () => {
   return (
     <div className="container mx-auto bg-base-200">
       <div className="flex items-center justify-center flex-col p-8">
-        <h1 className="py-4 block text-3xl font-bold">Sign In</h1>
+        <h1 className="py-4 block text-3xl font-bold">Sign Up</h1>
         <form onSubmit={handleSubmit}>
           <div className="py-4">
             <div className="py-[10px]">
