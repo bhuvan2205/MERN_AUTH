@@ -2,6 +2,8 @@
 MERN stack project to implement the jwt auth functionality along with cookies
 ![image](https://github.com/bhuvan2205/MERN_AUTH/assets/56767330/9e1756ec-db3b-44de-ab53-0bcceb33ea4c)
 
+# LIVE Url
+https://mern-auth-bm5e.onrender.com/
 
 # API Documentation
 
