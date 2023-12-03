@@ -2,11 +2,10 @@
 MERN stack project to implement the jwt auth functionality along with cookies
 ![image](https://github.com/bhuvan2205/MERN_AUTH/assets/56767330/9e1756ec-db3b-44de-ab53-0bcceb33ea4c)
 
-# LIVE Url
+# LIVE URL
 https://mern-auth-bm5e.onrender.com/
 
 # API Documentation
-
 https://documenter.getpostman.com/view/26098056/2s9YRGy98G
 
 # Pre-Requisites
@@ -14,7 +13,9 @@ https://documenter.getpostman.com/view/26098056/2s9YRGy98G
 * Node.js
 * MongoDB
 
-Setup .env file and copy content from .env-example and replace your actualy value
+# Setup in Local
+
+Create .env file and copy content from .env-example and replace your actual value
 
 Start the MongoDB in local
 
